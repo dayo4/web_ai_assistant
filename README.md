@@ -1,11 +1,13 @@
 <a href="https://ai-fusion-kit.vercel.app/">
-  <img alt="AI Fusion Kit" src="https://ai-fusion-kit.vercel.app/_next/image?url=%2Fscreenshot.png&w=1920&q=75">
-  <h1 align="center">AI Fusion Kit</h1>
+  <h2 align="center">Web AI Assitant</h2>
 </a>
 
 <p align="center">
-  A feature-rich, highly customizable AI Web App Template, empowered by Next.js.
+  A web-based AI copilot powered by GPT. Fully built in Next.js.
 </p>
+
+### Demo
+You can check out the live web app [here](https://ai-fusion-kit.vercel.app/) :
 
 <p align="center">
   <a href="#tech-stacks"><strong>Tech stacks</strong></a> ·
@@ -31,7 +33,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nphivu414/ai-fusion-kit
+   git clone https://github.com/dayo4/web_ai_assistant.git
    ```
 2. Install dependencies
    ```sh
@@ -91,7 +93,7 @@
 1. Go to the project directory
 
 ```bash
-  cd ai-fusion-kit
+  cd web_ai_assistant
 ```
 
 2. Start the web app
@@ -100,6 +102,6 @@
   yarn dev
 ```
 
-## Authors
+#### Authors
+- [@dayo4](https://github.com/dayo4)
 - [@nphivu414](https://github.com/nphivu414)
-- [@toproad1407](https://github.com/toproad1407)
