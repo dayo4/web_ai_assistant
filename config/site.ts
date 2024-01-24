@@ -5,10 +5,10 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: "AI Fusion Kit",
   description:
-    "A feature-rich, highly customizable AI Chatbot Template, empowered by Next.js.",
+    "A web-based AI copilot powered by GPT. Fully built in Next.js",
   links: {
-    x: "https://twitter.com/nphivu414",
-    github: "https://github.com/nphivu414/ai-fusion-kit",
+    x: "",
+    github: "https://github.com/dayo4/web_ai_assistant",
     docs: "",
   },
 };
